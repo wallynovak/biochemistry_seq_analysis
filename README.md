@@ -1,0 +1,1 @@
+The biochemistry_seq_analysis repository contains materials for the Biochemistry course at Wabash College. This interactive exercise walks students through obtaining a sequence from Entrez, performing a blast search, curating those results and creating a multiple alignment.
